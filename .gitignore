@@ -1,0 +1,25 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Certificates and private keys
+*.pem
+*.key
+*.crt
+*.cer
+
+# Environment files and secrets
+.env
+.env.*
